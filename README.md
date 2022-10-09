@@ -4,14 +4,14 @@
  
  ## 相关项目
 
-- [GitHub热榜](https://github.com/it985/github-hot-hub)
-- [知乎热榜](https://github.com/it985/zhihu-hot-hub)
-- [微博热榜](https://github.com/it985/weibo-hot-hub)
-- [头条热榜](https://github.com/it985/toutiao-hot-hub)
-- [抖音热榜](https://github.com/it985/douyin-hot-hub)
+- [GitHub热榜](https://github.com/lonnyzhang423/github-hot-hub)
+- [知乎热榜](https://github.com/lonnyzhang423/zhihu-hot-hub)
+- [微博热榜](https://github.com/lonnyzhang423/weibo-hot-hub)
+- [头条热榜](https://github.com/lonnyzhang423/toutiao-hot-hub)
+- [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-09 23:10:06 +0800`
+ `更新时间：2022-10-10 00:08:30 +0800`
 
 ## 热议话题
 
@@ -21,6 +21,7 @@
 1. [现在已经不用淘宝了](https://www.v2ex.com/t/885482)
 1. [双十一优惠渠道来了](https://www.v2ex.com/t/885509)
 1. [求助，我接下来半年或者一年应该怎么办](https://www.v2ex.com/t/885553)
+1. [用来学习、开发用的迷你 Linux 主机求推荐](https://www.v2ex.com/t/885486)
 
 ## 历史归档
 
