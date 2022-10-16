@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-16 18:04:27 +0800`
+ `更新时间：2022-10-16 19:02:12 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [接两年前的帖子：一线城市的生活成本真的高嘛？](https://www.v2ex.com/t/887248)
 1. [c/c++多线程读写问题，怎么反驳?](https://www.v2ex.com/t/887229)
 1. [开始使用 Yubikey](https://www.v2ex.com/t/887251)
-1. [港版 iPhone 怎么购买放心？](https://www.v2ex.com/t/887175)
+1. [就差最后一步， mac 就能基本满足我的需求了。](https://www.v2ex.com/t/887305)
 1. [想换小米 12s，问下双卡相关问题](https://www.v2ex.com/t/887262)
 
 ## 历史归档
