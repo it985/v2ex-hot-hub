@@ -11,18 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-10-19 11:31:39 +0800`
+ `更新时间：2022-10-19 13:20:18 +0800`
 
 ## 热议话题
 
 1. [第一次和女方父母见面就很不愉快](https://www.v2ex.com/t/887805)
 1. [什么设计鬼才，什么电子垃圾](https://www.v2ex.com/t/887984)
 1. [相亲之后，你们一般多久在一起？](https://www.v2ex.com/t/887852)
-1. [iPad Pro M2 版本已经发布](https://www.v2ex.com/t/887936)
 1. [现在的电视我真是服了](https://www.v2ex.com/t/887911)
-1. [看苹果新 iPad 有感](https://www.v2ex.com/t/887980)
 1. [apple tv 2022 款升级点汇总](https://www.v2ex.com/t/887948)
-1. [老是喜欢在浏览器上开很多标签页，也不舍得关，怎么办](https://www.v2ex.com/t/887894)
+1. [iPad Pro M2 版本已经发布](https://www.v2ex.com/t/887936)
 
 ## 历史归档
 
