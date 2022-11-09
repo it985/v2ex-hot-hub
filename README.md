@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-09 10:58:39 +0800`
+ `更新时间：2022-11-09 11:58:46 +0800`
 
 ## 热议话题
 
@@ -19,9 +19,9 @@
 1. [想换电脑了， MAC or ThinkPad](https://www.v2ex.com/t/893577)
 1. [关于远程工作是如何找到我的这事](https://www.v2ex.com/t/893707)
 1. [上海幼升小给我整 emo 了](https://www.v2ex.com/t/893702)
-1. [京东上买 Macbook 的售后体验太烂了，警醒下大家](https://www.v2ex.com/t/893521)
 1. [M 芯片外接 Dell S2721Qs 闪屏](https://www.v2ex.com/t/893553)
 1. [产品离职了，开摸](https://www.v2ex.com/t/893570)
+1. [.NET 7 正式发布](https://www.v2ex.com/t/893739)
 1. [苹果 14 蜂窝网络经常没网，信号有](https://www.v2ex.com/t/893572)
 
 ## 历史归档
