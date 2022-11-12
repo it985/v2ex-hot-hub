@@ -11,17 +11,16 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-11-12 19:01:57 +0800`
+ `更新时间：2022-11-12 20:09:14 +0800`
 
 ## 热议话题
 
-1. [问下程序员，短信回 T 退订是真是假？](https://www.v2ex.com/t/894572)
-1. [大家在 iOS 上用 safari 还是 chrome](https://www.v2ex.com/t/894567)
 1. [被北京联通无通知停机，浪费 2 个小时，发出来避免大家踩雷](https://www.v2ex.com/t/894669)
-1. [据说小米后期将会禁止解锁 BL，不在提供解锁功能](https://www.v2ex.com/t/894581)
 1. [有没有发现 Android 系统的性能缺陷被硬件的发展给掩盖了](https://www.v2ex.com/t/894703)
 1. [找了一个月，下周要入职了](https://www.v2ex.com/t/894634)
 1. [不认识字的 60 岁左右的人怎么快速找到对应号码的车厢?](https://www.v2ex.com/t/894654)
+1. [14 寸低配 M1 Pro 玩游戏如 GTA5 是否会极大影响电脑寿命？](https://www.v2ex.com/t/894674)
+1. [昨晚天猫放量那么大，抢到茅子了吗](https://www.v2ex.com/t/894646)
 
 ## 历史归档
 
