@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/lonnyzhang423/douyin-hot-hub)
 
 
- `更新时间：2022-12-07 01:01:27 +0800`
+ `更新时间：2022-12-07 02:06:24 +0800`
 
 ## 热议话题
 
@@ -23,6 +23,7 @@
 1. [如何评价本次 github 被大范围 dns 污染](https://www.v2ex.com/t/900605)
 1. [头痛后续](https://www.v2ex.com/t/900399)
 1. [终于能在 macOS 上愉快的使用鼠标了](https://www.v2ex.com/t/900408)
+1. [如何检测一段文本是否是 ChatGPT 等 AI 生成的？](https://www.v2ex.com/t/900403)
 
 ## 历史归档
 
