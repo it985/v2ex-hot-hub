@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2023-02-19 14:07:03 +0800`
+ `更新时间：2023-02-19 15:01:20 +0800`
 
 ## 热议话题
 
@@ -22,8 +22,9 @@
 1. [上海联通内部线下可以办理 27 元套餐送 300 宽带](https://www.v2ex.com/t/917184)
 1. [为什么 tg 的亚洲数据中心选在新加坡而不是日本？](https://www.v2ex.com/t/917245)
 1. [请教一下，老外让我代注册 qq 是什么新型骗局？](https://www.v2ex.com/t/917222)
-1. [New Bing 你们排了多久？](https://www.v2ex.com/t/917306)
 1. [小米 13 pro 还是 pixel 7 pro？](https://www.v2ex.com/t/917289)
+1. [New Bing 你们排了多久？](https://www.v2ex.com/t/917306)
+1. [接下来应该如何安排疫苗的接种时间？](https://www.v2ex.com/t/917178)
 
 ## 历史归档
 
