@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2023-03-05 22:01:12 +0800`
+ `更新时间：2023-03-05 23:01:50 +0800`
 
 ## 热议话题
 
@@ -21,10 +21,10 @@
 1. [B 站全站又崩了？](https://www.v2ex.com/t/921359)
 1. [在 v 站看了一段时间以后感觉现在人心理疾病真的很严重](https://www.v2ex.com/t/921271)
 1. [鱼皮的 CDN 被刷了 2 万元](https://www.v2ex.com/t/921318)
-1. [chatgpt（bing）的中文回答太差了，可以窥知中文网络的谬误和谎言有多夸张了](https://www.v2ex.com/t/921185)
 1. [有过一些经历，决定输出知识](https://www.v2ex.com/t/921287)
 1. [All in one 系统 GPU 虚拟化](https://www.v2ex.com/t/921243)
 1. [想润个轻松点 965 的公司，会不会被 hr 压薪资](https://www.v2ex.com/t/921248)
+1. [有些 chatGPT 的账号有 120 美金 有人申请过吗](https://www.v2ex.com/t/921232)
 
 ## 历史归档
 
