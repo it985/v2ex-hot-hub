@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2023-05-22 14:07:05 +0800`
+ `更新时间：2023-05-22 15:01:24 +0800`
 
 ## 热议话题
 
@@ -22,7 +22,7 @@
 1. [分享一个 GPT-4 的 APIKEY，还有 2500 刀可用](https://www.v2ex.com/t/941797)
 1. [夏天到了，有没有什么饮品推荐下？](https://www.v2ex.com/t/941827)
 1. [想跟女朋友一起远程看电影，有什么工具](https://www.v2ex.com/t/941840)
-1. [在 windows 存照片是不是非常不安全？](https://www.v2ex.com/t/941736)
+1. [做一个 stable diffusion 的开箱即用页面会有人买单么？](https://www.v2ex.com/t/941872)
 
 ## 历史归档
 
