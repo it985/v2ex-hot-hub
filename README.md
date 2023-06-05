@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2023-06-06 01:01:39 +0800`
+ `更新时间：2023-06-06 02:02:12 +0800`
 
 ## 热议话题
 
@@ -23,7 +23,7 @@
 1. [xdm 相亲问题](https://www.v2ex.com/t/945963)
 1. [🎁 [首发限免] ChatX 发布啦！一款强大的 AI 客户端，支持 ChatGPT 3.5/4.0](https://www.v2ex.com/t/945877)
 1. [为什么不买房](https://www.v2ex.com/t/945953)
-1. [XDM，遇到 SB 同事怎么破](https://www.v2ex.com/t/945806)
+1. [3 个月 NAS 硬盘已损毁，长江存储的 ssd 这么不禁用么？](https://www.v2ex.com/t/945920)
 
 ## 历史归档
 
