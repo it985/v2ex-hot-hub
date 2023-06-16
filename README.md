@@ -11,18 +11,19 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2023-06-16 19:01:12 +0800`
+ `更新时间：2023-06-16 20:08:44 +0800`
 
 ## 热议话题
 
 1. [分享一段我司前辈的代码，哈哈！](https://www.v2ex.com/t/949195)
 1. [你们平时没事的时候都学啥啊](https://www.v2ex.com/t/949193)
 1. [球迷冲进场内干扰比赛，这不就是饭圈脑残粉吗](https://www.v2ex.com/t/949172)
-1. [帮朋友问：何处安放早“xie”的人生？](https://www.v2ex.com/t/949240)
 1. [你弃用 Firefox 的原因是？](https://www.v2ex.com/t/949337)
+1. [帮朋友问：何处安放早“xie”的人生？](https://www.v2ex.com/t/949240)
 1. [5000 块以内的组装机都是垃圾，不服来辩](https://www.v2ex.com/t/949308)
 1. [Java21 make Java great again](https://www.v2ex.com/t/949151)
 1. [遇到这种邻居你们怎么办？](https://www.v2ex.com/t/949149)
+1. [8 年 iOS，一时冲动，直接裸辞了，面试机会都没有](https://www.v2ex.com/t/949346)
 
 ## 历史归档
 
