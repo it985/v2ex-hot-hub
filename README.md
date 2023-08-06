@@ -11,19 +11,18 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2023-08-06 10:15:04 +0800`
+ `更新时间：2023-08-06 11:01:52 +0800`
 
 ## 热议话题
 
 1. [VIM 的作者 Bram Moolenaar 过世了](https://www.v2ex.com/t/962692)
 1. [学生目前想入台 MacAir，想寻求点宝贵建议](https://www.v2ex.com/t/962617)
-1. [有没有人喜欢看负能量视频，我看自媒体领域还没有做这一块的](https://www.v2ex.com/t/962575)
 1. [被裁员了~](https://www.v2ex.com/t/962616)
-1. [为什么平台都喜欢 APP？](https://www.v2ex.com/t/962608)
 1. [闲来无事，想了解下，有多少人愿意给自己搞一个香港的身份？](https://www.v2ex.com/t/962643)
+1. [为什么平台都喜欢 APP？](https://www.v2ex.com/t/962608)
 1. [各位都用 time machine 备份吗？有必要吗？](https://www.v2ex.com/t/962591)
-1. [quantumult x 推出 tvOS 版了](https://www.v2ex.com/t/962573)
 1. [不以求职为目的， 2023 年有什么值得学习的语言或框架？](https://www.v2ex.com/t/962590)
+1. [iphone14 掉水里了 现在慌的一批](https://www.v2ex.com/t/962666)
 
 ## 历史归档
 
