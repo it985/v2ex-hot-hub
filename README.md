@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2023-09-23 10:10:18 +0800`
+ `更新时间：2023-09-23 11:01:36 +0800`
 
 ## 热议话题
 
@@ -22,6 +22,7 @@
 1. [坏了， flutter 可能白学了。早知道不听 V 友们劝了](https://www.v2ex.com/t/976134)
 1. [iPhone 15pro 到手体验](https://www.v2ex.com/t/976205)
 1. [手機帶殼的防摔能力是不帶殼的 100 倍](https://www.v2ex.com/t/976130)
+1. [iPhone 15 销量一定是有问题了](https://www.v2ex.com/t/976235)
 
 ## 历史归档
 
