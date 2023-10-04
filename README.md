@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2023-10-04 18:01:55 +0800`
+ `更新时间：2023-10-04 19:00:55 +0800`
 
 ## 热议话题
 
@@ -20,7 +20,6 @@
 1. [bitwarden 的安卓客户端可以正常使用吗](https://www.v2ex.com/t/978764)
 1. [iPhone 15 系列贴膜有无推荐？](https://www.v2ex.com/t/978877)
 1. [“蒸发型加湿器”有可能是智商税吗？](https://www.v2ex.com/t/978788)
-1. [pixel experience 不能使用联通吗？](https://www.v2ex.com/t/978748)
 1. [x(Twitter)真是要完了，机器人、诈骗横行](https://www.v2ex.com/t/978821)
 1. [日版 iPhone 15 pro 黑 拿到手](https://www.v2ex.com/t/978819)
 1. [土耳其区 Apple ID 充值消费后被 ban 了](https://www.v2ex.com/t/978834)
