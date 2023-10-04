@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2023-10-04 10:15:01 +0800`
+ `更新时间：2023-10-04 11:02:23 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [请教下这两个故事的真实性](https://www.v2ex.com/t/978743)
 1. [“蒸发型加湿器”有可能是智商税吗？](https://www.v2ex.com/t/978788)
 1. [咸鱼上那些 Apple Watch 官方原装“散装”表带可信不？](https://www.v2ex.com/t/978731)
-1. [你的 macbook 会贴膜吗?](https://www.v2ex.com/t/978714)
 1. [bitwarden 的安卓客户端可以正常使用吗](https://www.v2ex.com/t/978764)
+1. [你的 macbook 会贴膜吗?](https://www.v2ex.com/t/978714)
 
 ## 历史归档
 
