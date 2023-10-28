@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2023-10-28 19:00:56 +0800`
+ `更新时间：2023-10-28 20:07:40 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [彭博社爆料 31 号可能有 M3 的 macbook pro， 14,16 寸](https://www.v2ex.com/t/986153)
 1. [双十一买手机求购推荐&大家分享自己使用体验](https://www.v2ex.com/t/986198)
 1. [HHKB 用了 10 年，手感变差怎么办？](https://www.v2ex.com/t/986182)
-1. [你们最长连续多久没上班？](https://www.v2ex.com/t/986114)
 1. [站在 2023 年末的节点来看，开发游戏使用游戏引擎，在国内，用 godot 还是用 Cocos？](https://www.v2ex.com/t/986188)
 1. [求推荐舒服的被套](https://www.v2ex.com/t/986192)
+1. [不要买绿联 dx4600 pro](https://www.v2ex.com/t/986127)
 1. [写惯了 js 再去写 ts 有种给自己上脚镣的感觉](https://www.v2ex.com/t/986132)
 
 ## 历史归档
