@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2023-11-03 12:06:24 +0800`
+ `更新时间：2023-11-03 13:01:34 +0800`
 
 ## 热议话题
 
@@ -21,9 +21,9 @@
 1. [结婚对戒材质选择](https://www.v2ex.com/t/987881)
 1. [为什么身边人能结的起婚？](https://www.v2ex.com/t/988133)
 1. [何同学两日体验卡！](https://www.v2ex.com/t/988004)
-1. [clash_for_windows 没了之后有替代品吗](https://www.v2ex.com/t/987907)
 1. [大家用什么记账软件？](https://www.v2ex.com/t/988094)
-1. [年近 30，配置了人生第一份保险，和大家分享一些购买心得。](https://www.v2ex.com/t/987917)
+1. [clash_for_windows 没了之后有替代品吗](https://www.v2ex.com/t/987907)
+1. [请问各位有什么反复购买过的东西，觉得还不错的?](https://www.v2ex.com/t/988143)
 
 ## 历史归档
 
