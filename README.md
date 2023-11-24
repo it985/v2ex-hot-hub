@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2023-11-24 19:01:36 +0800`
+ `更新时间：2023-11-24 20:09:11 +0800`
 
 ## 热议话题
 
@@ -20,10 +20,9 @@
 1. [公司竟然管员工头发，男生不准留长发](https://www.v2ex.com/t/994700)
 1. [想做一个网站：互联网的记忆](https://www.v2ex.com/t/994818)
 1. [关于规范公司空调使用的通知](https://www.v2ex.com/t/994729)
-1. [微信发语音会有咻的一声提示音，找不到关闭按钮，这个设计合理吗](https://www.v2ex.com/t/994696)
 1. [关于在日本购买免税 iPhone](https://www.v2ex.com/t/994777)
-1. [tvbox 的直播源好像全跑路了](https://www.v2ex.com/t/994651)
 1. [有没有正常的程序员交流群？](https://www.v2ex.com/t/994819)
+1. [tvbox 的直播源好像全跑路了](https://www.v2ex.com/t/994651)
 1. [用了两年的 MacBook Pro 14 拆开来清灰，震惊了](https://www.v2ex.com/t/994725)
 
 ## 历史归档
