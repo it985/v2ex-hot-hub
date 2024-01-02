@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2024-01-02 16:07:42 +0800`
+ `更新时间：2024-01-02 17:01:44 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [现在农村怎么看电视？](https://www.v2ex.com/t/1005009)
 1. [家用主机用 win 还是 mac？](https://www.v2ex.com/t/1005068)
 1. [2024 上班第一天有啥感想没？](https://www.v2ex.com/t/1005080)
+1. [BYD 2023 年销售了 302 万辆新能源汽车](https://www.v2ex.com/t/1005154)
 1. [win10 or win11？](https://www.v2ex.com/t/1005072)
-1. [好用的 git 工具](https://www.v2ex.com/t/1005026)
 
 ## 历史归档
 
