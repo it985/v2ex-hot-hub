@@ -11,16 +11,18 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2024-01-26 14:07:16 +0800`
+ `更新时间：2024-01-26 15:01:18 +0800`
 
 ## 热议话题
 
-1. [Firefox 的没落的根本原因?](https://www.v2ex.com/t/1011474)
 1. [亲姐的女儿在北方老家马上考大学了，问我未来选什么专业好，给什么建议合适？](https://www.v2ex.com/t/1011683)
 1. [坐标帝都，想入个京 A 摩托牌，请问各位大佬们意见](https://www.v2ex.com/t/1011486)
 1. [每晚睡觉，容易出汗，一晚上秋衣能湿好几次怎么办？](https://www.v2ex.com/t/1011636)
 1. [有人使用 Apple Watch 觉得很值的吗，是什么原因让你觉得它很好用？](https://www.v2ex.com/t/1011559)
+1. [为何不选 Hibernate,非要 MyBatis？](https://www.v2ex.com/t/1011737)
+1. [想听听各位做了近视眼矫正手术过来人的经验](https://www.v2ex.com/t/1011642)
 1. [Google 的 Pixel 手机有什么特别的好处？](https://www.v2ex.com/t/1011622)
+1. [[求助]上初一的外甥喜欢编程，目前在学 Python ，春节送他什么礼物合适？](https://www.v2ex.com/t/1011670)
 
 ## 历史归档
 
