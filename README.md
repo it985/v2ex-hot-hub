@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2024-03-17 20:09:02 +0800`
+ `更新时间：2024-03-17 21:02:01 +0800`
 
 ## 热议话题
 
@@ -19,8 +19,8 @@
 1. [朋友买了深圳的小产权，自住的话真的太噩梦了](https://www.v2ex.com/t/1024413)
 1. [父母催我买房，有点压力](https://www.v2ex.com/t/1024454)
 1. [Java 、Idea、Android Studio 用户请暂缓升级到 macOS 14.4](https://www.v2ex.com/t/1024389)
-1. [男生留长发是怎样的体验？](https://www.v2ex.com/t/1024367)
 1. [第二次从 chrome 切换到 Safari 了一周，感觉坚持不下去了](https://www.v2ex.com/t/1024366)
+1. [男生留长发是怎样的体验？](https://www.v2ex.com/t/1024367)
 1. [24 届 infra 求职](https://www.v2ex.com/t/1024359)
 1. [关于 315 时期，央广网发布曝光淀粉肠是否符实](https://www.v2ex.com/t/1024410)
 1. [2024 年了，求个安卓 14 的模拟定位方案](https://www.v2ex.com/t/1024358)
