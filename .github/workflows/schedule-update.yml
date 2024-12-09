@@ -48,3 +48,8 @@ jobs:
           git add .
           git commit -m "auto update v2exhothub"
           git push -u origin main
+      - name: Delete Workflow Runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          retain_days: 30
+          keep_minimum_runs: 6
