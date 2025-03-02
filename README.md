@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2025-03-03 00:07:29 +0800`
+ `更新时间：2025-03-03 01:01:33 +0800`
 
 ## 热议话题
 
@@ -23,8 +23,8 @@
 1. [将代码中的密码等信息发给 chatgpt 等模型安全吗？](https://www.v2ex.com/t/1115208)
 1. [面试救命，有没有运维大佬？或者干过机场的运维的大佬？](https://www.v2ex.com/t/1115247)
 1. [请问这是什么标志？](https://www.v2ex.com/t/1115215)
-1. [入手 AirPods Max 二代 合不合适？](https://www.v2ex.com/t/1115187)
 1. [性价比路由器推荐](https://www.v2ex.com/t/1115183)
+1. [入手 AirPods Max 二代 合不合适？](https://www.v2ex.com/t/1115187)
 
 ## 历史归档
 
