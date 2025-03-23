@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2025-03-23 15:07:11 +0800`
+ `更新时间：2025-03-23 16:09:39 +0800`
 
 ## 热议话题
 
@@ -20,8 +20,8 @@
 1. [有替代 Proxy SwitchyOmega 的插件吗](https://www.v2ex.com/t/1120361)
 1. [Airpods 二代停产了，耳朵已经成了二代的形状怎么办？](https://www.v2ex.com/t/1120395)
 1. [中国联通申请了 PCDN 识别的专利](https://www.v2ex.com/t/1120381)
-1. [有人在 macOS 使用 crossover 玩游戏吗？](https://www.v2ex.com/t/1120315)
 1. [领完大礼包了，差不多一个礼拜又找到了工作，但是落差挺大](https://www.v2ex.com/t/1120349)
+1. [微软将于 10 月 14 日停止支持 UWP 版 OneNote](https://www.v2ex.com/t/1120392)
 
 ## 历史归档
 
