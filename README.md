@@ -11,7 +11,7 @@
 - [抖音热榜](https://github.com/it985/douyin-hot-hub)
 
 
- `更新时间：2025-05-15 07:06:27 +0800`
+ `更新时间：2025-05-15 08:40:48 +0800`
 
 ## 热议话题
 
@@ -24,7 +24,7 @@
 1. [35 岁+程序员， Gap 10 个月后成功再就业，一点经历分享](https://www.v2ex.com/t/1131621)
 1. [离谱， TypeScript 的主力开发之一 Ron Buckton 被微软裁了](https://www.v2ex.com/t/1131670)
 1. [微软发布 Win11 的 KB5058411，看 changelog，感觉可能解决了我之前遇到的很多恶心 bug](https://www.v2ex.com/t/1131582)
-1. [马上 618 了烙铁们购物车里都有什么？](https://www.v2ex.com/t/1131613)
+1. [小米电视还真是过保就坏](https://www.v2ex.com/t/1131728)
 
 ## 历史归档
 
